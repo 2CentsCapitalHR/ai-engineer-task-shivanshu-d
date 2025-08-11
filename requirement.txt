@@ -1,0 +1,6 @@
+python-docx
+langchain
+openai
+sentence-transformers
+faiss-cpu
+python-dotenv
